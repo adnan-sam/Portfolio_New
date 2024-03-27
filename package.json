@@ -1,8 +1,8 @@
 {
   "private": true,
-  "name": "opportfolio",
+  "name": "adnanportfolio",
   "version": "1.2.0",
-  "homepage": "http://hrishi.tech/",
+  "homepage": "http://adnan.sam/",
   "scripts": {
     "build": "react-scripts build",
     "predeploy": "npm run build",
